@@ -44,7 +44,7 @@ public class PedraPapelTesoura {
 				(jogador == 4 && computador == 2) // Spock quebra tesoura
 		) {
 			System.out.println("Você venceu!");
-		} else {
+		} else{
 			System.out.println("Computador venceu!");
 		}
 
